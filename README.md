@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dan86-coder
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dan.boldi86@gmail.com
