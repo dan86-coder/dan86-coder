@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan86-coder
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning testing
+- 👀 I’m interested working on something cool!
+- 🌱 I’m currently learning with help of https://docs.github.com/en
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dan.boldi86@gmail.com
 
